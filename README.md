@@ -19,7 +19,7 @@ Skapa en ny HTML-sida och bygg ett klassiskt kontaktformulär. Fokusera på att 
 
 3.  Alla fält ska ha en **tydlig koppling** mellan label och input (använd for och id).
 4.  Lägg till validering (required) på namn och e-post.
-5.  Avsluta med en riktig .
+5.  Avsluta med en riktig button type="submit".
 
 > **Tips:** Använd klasserna från style.css (t.ex. .card och .btn-primary) för att styla formuläret.
 
