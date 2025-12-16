@@ -54,3 +54,4 @@ Innan du känner dig klar, dubbelkolla detta:
 - \[ \] Har jag lagt till autocomplete="..." på namn och e-post?
 - \[ \] Kan jag tabba mig igenom hela formuläret och skicka det med tangentbordet (Enter)?
 - \[ \] Har jag använt och inte en button och inte en div för knappen?
+  g
