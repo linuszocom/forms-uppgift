@@ -6,7 +6,7 @@ Ni har fått en fil som heter style.css. Den innehåller CSS-variabler (färger,
 
 ## Uppgift 1: Det grundläggande kontaktformuläret
 
-Skapa en ny HTML-sida och bygg ett klassiskt kontaktformulär. Fokusera på att få **semantiken** (HTML-taggarna) helt perfekt.
+Skapa en ny HTML-sida och bygg ett klassiskt kontaktformulär. Fokusera på att få **semantiken** (HTML-taggarna).
 
 **Krav:**
 
